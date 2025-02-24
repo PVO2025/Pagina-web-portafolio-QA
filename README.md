@@ -39,5 +39,7 @@ https://github.com/PVO2025/Pagina-web-portafolio-QA.git
 ### Contacto
 
 Si tienes sugerencias o deseas colaborar, puedes contactarme en:
+
 📧 pamelavo.2024@gmail.com
+
 💼 www.linkedin.com/in/pamela-villarroel-ortiz
