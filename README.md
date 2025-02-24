@@ -1,31 +1,45 @@
-📌 Mi Portafolio de Tester QA
+## Mi Portafolio de Tester QA
 
 ¡Bienvenido a mi portafolio de Testing QA! 🎯 Aquí encontrarás información sobre mi trayectoria, habilidades, proyectos y más.
-🌟 Tecnologías utilizadas
 
-    HTML 🏗️ para la estructura del sitio.
-    CSS 🎨 para el diseño y la presentación visual.
-    JavaScript (próximamente) 🚀 para agregar interactividad.
+### Tecnologías utilizadas
 
-📂 Secciones del portafolio
+1. HTML: para la estructura del sitio
+2. CSS: para el diseño y la presentacion visual
+3. Javascript (próximamente) para agegar interactvidad
 
-🔹 Inicio – Presentación y bienvenida.
+### Secciones del portafolio
+
+🔹 Home – Presentación y bienvenida. 
+
 🔹 Acerca de mí – Quién soy y mi experiencia en testing.
-🔹 Mi CV – Detalles de mi formación y habilidades.
-🔹 Proyectos – Casos de prueba, automatización y ejemplos de QA.
-🚀 Próximas mejoras
 
-✅ Agregar JavaScript para hacer la web más dinámica.
-✅ Incluir ejemplos de pruebas automatizadas.
-✅ Mejorar la accesibilidad y optimización web.
-🛠️ Cómo ver el proyecto
+🔹 Mi CV – Detalles de mi formación y habilidades.
+
+🔹 Proyectos – Casos de prueba, automatización ( próximamente) y ejemplos de QA.
+
+
+### Próximas mejoras
+
+✅ 1. Agregar JavaScript para hacer la web más dinámica
+   2. Incluir ejemplos de pruebas automatizadas
+✅ 3. Mejorar la accesibilidad y optimización web
+
+
+### Cómo ver el proyecto
 
 Puedes acceder al portafolio directamente desde:
+
 https://pagina-web-portafolio-qa-nh5u.vercel.app/
+
 O clonar el repositorio:
+
 https://github.com/PVO2025/Pagina-web-portafolio-QA.git
-📬 Contacto
+
+### Contacto
 
 Si tienes sugerencias o deseas colaborar, puedes contactarme en:
-📧 [Tu email]
-💼 [Tu LinkedIn]
+
+📧 pamelavo.2024@gmail.com
+
+💼 www.linkedin.com/in/pamela-villarroel-ortiz
