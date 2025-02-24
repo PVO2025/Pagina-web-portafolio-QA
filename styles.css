@@ -75,8 +75,9 @@ gap: 82px;
 
 .presentacion_contenido_texto{
     font-family: var(--fuente-montserrat);
-    font-size: 1.5rem;
-    text-align: justify;
+    /*1.5rem*/
+    font-size: 1.2rem;
+    text-align:justify;
     
 }
 .presentacion_enlaces{
