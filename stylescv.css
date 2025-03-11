@@ -1,0 +1,41 @@
+#cv {
+    text-align:center;
+    padding: 50px;
+    background-color:black;
+  }
+  
+  .cv-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background: black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .cv-info {
+    text-align: left;
+    max-width: 600px;
+  }
+  
+  .cv-info h3 {
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .btn-descargar {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+  }
+  
+  .btn-descargar:hover {
+    background: #0056b3;
+  }
+  
