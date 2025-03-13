@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Proyectos</title>
     <link rel="stylesheet" href="styles.css">
-   
+     <link rel="stylesheet" href="stylesproyec.css">
+    <script src="app.js"></script>
 </head>
 
 
@@ -19,10 +20,61 @@
     
     </nav>
     </header>
-    <p> en construccion ....</P>
+<section id="proyectos">
+ 
+    <div class="proyectos-grid">
+        <!-- Proyecto 1: -->
+        <div class="proyecto 1">
+            <img src="imagenes/imagen formulario.png" alt="Proyecto 1" onclick="openModal(this)">
+            <h3>Proyecto de Login: Validación de Usuario y Contraseña</h3>
+        
+            <button class="btn-detalles" onclick="toggleDetails(this)">Mostrar más</button>
+            <div class="detalles" style="display:none;">
+                <p>"Este proyecto consiste en un formulario de inicio de sesión, donde implementé un sistema de validación para usuario y contraseña utilizando HTML, CSS y JavaScript. A lo largo del desarrollo, 
+                realicé diversos casos de prueba para asegurar el correcto funcionamiento y la seguridad del formulario."</p>
+            </div>
+            <a href="https://github.com/tuperfil/proyecto1" target="_blank">Ver en GitHub</a>
+        </div>
+
+        <!-- Proyecto 2:-->
+        <div class="proyecto 2">
+            <img src="imagenes/imagen lista de tareas.png" alt="Proyecto 2" onclick="openModal(this)">
+            <h3>Aplicación de Pruebas: To-Do List</h3>
+            
+            <button class="btn-detalles" onclick="toggleDetails(this)">Mostrar más</button>
+            <div class="detalles" style="display: none;">
+                <p>To-Do List creada con HTML, CSS y JavaScript que permite gestionar
+                 tareas de forma sencilla, con almacenamiento en localStorage y una interfaz intuitiva.Proyecto utilizado para practicar testing manual y automatizado.
+                  Permite gestionar tareas, validar funcionalidades y probar distintos escenarios de prueba.</p>
+            </div>
+            <a href="https://github.com/tuperfil/proyecto2" target="_blank">Ver en GitHub</a>
+        </div>
+    
+        <!-- Proyecto 3:-->
+        <div class="proyecto 3">
+            <img src="img/proyecto2.png" alt="Proyecto 2" onclick="openModal(this)">
+            <h3>En construcción ......</h3>
+            <p> </p>
+            <button class="btn-detalles" onclick="toggleDetails(this)">Mostrar más</button>
+            <div class="detalles" style="display: none;">
+                <p> </p>
+            </div>
+            <a href="https://github.com/tuperfil/proyecto2" target="_blank">Ver en GitHub</a>
+        </div>
+</div>
+
+</section>
+<!-- Modal para imagen ampliada -->
+<div id="modal" class="modal" onclick="closeModal()">
+    <span class="close">&times;</span>
+    <img id="modal-img" class="modal-content" src="">
+</div>
+
+
 
      <footer class="footer">
 <p> Desarrollado por パメラ </p>
     </footer>
+   
 </body>
 </html>
