@@ -1,28 +1,28 @@
-## Mi Portafolio de Tester QA
+## Mi Portafolio de Tester QA (en construcción)
 
-¡Bienvenido a mi portafolio de Testing QA! 🎯 Aquí encontrarás información sobre mi trayectoria, habilidades, proyectos y más.
+¡Bienvenido a mi portafolio de Testing QA! 🎯 Aquí encontrarás información sobre mis proyectos y más.
 
 ### Tecnologías utilizadas
 
 1. HTML: para la estructura del sitio
 2. CSS: para el diseño y la presentacion visual
-3. Javascript (próximamente) para agegar interactvidad
+3. Javascript (próximamente) para agregar interactvidad
 
 ### Secciones del portafolio
 
 🔹 Home – Presentación y bienvenida. 
 
-🔹 Acerca de mí – Quién soy y mi experiencia en testing.
+🔹 Acerca de mí – Quién soy .
 
 🔹 Mi CV – Detalles de mi formación y habilidades.
 
-🔹 Proyectos – Casos de prueba, automatización ( próximamente) y ejemplos de QA.
+🔹 Proyectos – Proyectos que fueron desarrollados para aplicar y practicar diversas técnicas de testing, tanto manual como automatizado (próximamente)
 
 
 ### Próximas mejoras
 
 ✅ 1. Agregar JavaScript para hacer la web más dinámica
-   2. Incluir ejemplos de pruebas automatizadas
+✅ 2. Incluir ejemplos de pruebas automatizadas
 ✅ 3. Mejorar la accesibilidad y optimización web
 
 
